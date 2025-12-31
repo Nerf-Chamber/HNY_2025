@@ -1,0 +1,14 @@
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.AssemblyInfoInputs.cache
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.AssemblyInfo.cs
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Desktop\HNY\HNY\bin\Debug\net8.0\HNY.exe
+C:\Users\Usuari\Desktop\HNY\HNY\bin\Debug\net8.0\HNY.deps.json
+C:\Users\Usuari\Desktop\HNY\HNY\bin\Debug\net8.0\HNY.runtimeconfig.json
+C:\Users\Usuari\Desktop\HNY\HNY\bin\Debug\net8.0\HNY.dll
+C:\Users\Usuari\Desktop\HNY\HNY\bin\Debug\net8.0\HNY.pdb
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.dll
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\refint\HNY.dll
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.pdb
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.genruntimeconfig.cache
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\ref\HNY.dll
