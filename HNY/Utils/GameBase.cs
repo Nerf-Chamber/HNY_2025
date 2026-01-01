@@ -10,7 +10,7 @@
         public async Task RunGame()
         {
             Console.SetWindowSize(Width, Height);
-            Console.SetBufferSize(Width, Height);
+            //Console.SetBufferSize(Width, Height);
             Console.CursorVisible = false;
 
             Task renderTask = Task.Run(Render);
