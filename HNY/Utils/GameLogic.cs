@@ -4,7 +4,7 @@ namespace HNY.Utils
 {
     public class GameLogic
     {
-        private string message = "Bo";
+        private string message = "Bon any nou Marina aka best patata :D";
         private int currentLetterPos = 0;
 
         private int freqLogic = 50;
