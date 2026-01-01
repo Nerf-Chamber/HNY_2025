@@ -27,7 +27,7 @@ namespace HNY
             string completeMessage = string.Empty;
 
             CancellationTokenSource cts = new CancellationTokenSource();
-            GameBase game = new GameBase(100, 100, spaceShip, cts, cts.Token);
+            GameBase game = new GameBase(100, 50, spaceShip, cts, cts.Token);
 
             Console.CursorVisible = true;
 
