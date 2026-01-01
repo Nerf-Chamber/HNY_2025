@@ -12,3 +12,4 @@ C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\refint\HNY.dll
 C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.pdb
 C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.genruntimeconfig.cache
 C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\ref\HNY.dll
+C:\Users\Usuari\Desktop\HNY\HNY\obj\Debug\net8.0\HNY.sourcelink.json

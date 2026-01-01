@@ -70,6 +70,7 @@ namespace HNY
             Console.WriteLine($" dffqj://xpawu.ykkycu.ekz/oacu/x/7ApXCznROvYGMLq3082Pb-gNUn6zTXO9u/waug?hjq=jdbpavy");
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine(GameOver);
+            Console.ReadKey();
         }
     }
 }
