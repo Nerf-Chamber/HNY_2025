@@ -24,10 +24,8 @@ namespace HNY.Utils
         protected CancellationTokenSource Cts { get; set; }
         protected CancellationToken Tk { get; set; }
 
-        protected GameLogic(int width, int height, char spaceShip, CancellationTokenSource cts, CancellationToken tk) 
+        protected GameLogic(char spaceShip, CancellationTokenSource cts, CancellationToken tk) 
         { 
-            Width = width;
-            Height = height;
             SpaceShip = spaceShip;
             Cts = cts;
             Tk = tk;

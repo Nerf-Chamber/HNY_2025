@@ -4,13 +4,15 @@
     {
         private int FreqRender = 20;
 
-        public GameBase(int width, int height, char spaceShip, CancellationTokenSource cts, CancellationToken tk)
-            : base(width, height, spaceShip, cts, tk) { }
+        public GameBase(char spaceShip, CancellationTokenSource cts, CancellationToken tk)
+            : base(spaceShip, cts, tk) { }
 
         public async Task RunGame()
         {
-            Console.SetWindowSize(Width, Height);
+            //Console.SetWindowSize(Width, Height);
             //Console.SetBufferSize(Width, Height);
+            Width = Console.WindowWidth;
+            Height = Console.WindowHeight;
             Console.CursorVisible = false;
 
             Task renderTask = Task.Run(Render);
